@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DIO.Games", "DIO.Games.csproj", "{EDE79232-2DC7-4973-8498-71C2A5A8346A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDE79232-2DC7-4973-8498-71C2A5A8346A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDE79232-2DC7-4973-8498-71C2A5A8346A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDE79232-2DC7-4973-8498-71C2A5A8346A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDE79232-2DC7-4973-8498-71C2A5A8346A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68CEF799-FD3E-4A64-9E34-4A5A6EE34EA2}
+	EndGlobalSection
+EndGlobal

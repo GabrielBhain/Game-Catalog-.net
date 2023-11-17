@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\DotNet\Games\DIO.Games\obj\Debug\net7.0\DIO.Games.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\DotNet\Games\DIO.Games\obj\Debug\net7.0\DIO.Games.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\DotNet\Games\DIO.Games\obj\Debug\net7.0\DIO.Games.AssemblyInfo.cs
+C:\Users\gabri\Desktop\DotNet\Games\DIO.Games\obj\Debug\net7.0\DIO.Games.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\DotNet\Games\DIO.Games\bin\Debug\net7.0\DIO.Games.exe
+C:\Users\gabri\Desktop\DotNet\Games\DIO.Games\bin\Debug\net7.0\DIO.Games.deps.json
+C:\Users\gabri\Desktop\DotNet\Games\DIO.Games\bin\Debug\net7.0\DIO.Games.runtimeconfig.json
+C:\Users\gabri\Desktop\DotNet\Games\DIO.Games\bin\Debug\net7.0\DIO.Games.dll
+C:\Users\gabri\Desktop\DotNet\Games\DIO.Games\bin\Debug\net7.0\DIO.Games.pdb
+C:\Users\gabri\Desktop\DotNet\Games\DIO.Games\obj\Debug\net7.0\DIO.Games.dll
+C:\Users\gabri\Desktop\DotNet\Games\DIO.Games\obj\Debug\net7.0\refint\DIO.Games.dll
+C:\Users\gabri\Desktop\DotNet\Games\DIO.Games\obj\Debug\net7.0\DIO.Games.pdb
+C:\Users\gabri\Desktop\DotNet\Games\DIO.Games\obj\Debug\net7.0\DIO.Games.genruntimeconfig.cache
+C:\Users\gabri\Desktop\DotNet\Games\DIO.Games\obj\Debug\net7.0\ref\DIO.Games.dll
