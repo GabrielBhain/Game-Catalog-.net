@@ -20,7 +20,7 @@ Criar um programa para gerenciar um catálogo de informações, proporcionando f
 ---
 ##  Desafio: O desafio original era proposto a utilização de Séries eu utilizei Jogos
 
-No desafio do catálogo de jogos, foi desenvolvida uma aplicação em C# com .NET que permite a gestão de um catálogo de jogos por meio de um console interativo. 
+No desafio do catálogo de jogos, foi desenvolvida uma aplicação em C# com .NET 7.0 (a versão utilizada no desafio era desatualizada sendo um desafio a mais) que permite a gestão de um catálogo de jogos por meio de um console interativo. 
 A solução consiste em duas principais classes: Game para representar as informações de um jogo e GameRepository para gerenciar a coleção de jogos, implementando operações como inserção, atualização, exclusão e listagem. 
 A interface IRepository define métodos que são implementados na classe GameRepository. 
 A classe Program funciona como a interface de usuário, oferecendo opções como listar jogos, adicionar novos, atualizar informações, excluir jogos, visualizar detalhes específicos e limpar a tela. 
